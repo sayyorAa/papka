@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    background-color: #fff;
+    width: 350px;
+    padding: 30px 25px;   
+    text-align: center;
+   
+}
+
+.title {
+    font-size: 18px;
+    color: #111827;
+    margin-bottom: 10px;
+}
+
+.text {
+    font-size: 11px;
+    color: #6b7280;
+    margin-bottom: 9px; 
+}
+
+.btn {
+    padding: 7px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #6E38F7;
+    color: #fff;
+    font-size: 7px;
+    text-transform: uppercase;
+}
+
+
+
